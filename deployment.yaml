@@ -58,6 +58,6 @@ spec:
     app: html-app
   ports:
   - protocol: TCP
-    port: 82
+    port: 80
     targetPort: 80
   type: LoadBalancer
